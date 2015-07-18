@@ -13,6 +13,7 @@
 		07DAF5611B5A358200B3A380 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07DAF5601B5A358200B3A380 /* Images.xcassets */; };
 		07DAF5641B5A358200B3A380 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 07DAF5621B5A358200B3A380 /* LaunchScreen.xib */; };
 		07DAF5701B5A358200B3A380 /* StoryBoardDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07DAF56F1B5A358200B3A380 /* StoryBoardDemoTests.swift */; };
+		07DAF57A1B5A4DEB00B3A380 /* Apple Watch – Beijing.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 07DAF5791B5A4DEB00B3A380 /* Apple Watch – Beijing.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		07DAF5691B5A358200B3A380 /* StoryBoardDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoryBoardDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		07DAF56E1B5A358200B3A380 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		07DAF56F1B5A358200B3A380 /* StoryBoardDemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryBoardDemoTests.swift; sourceTree = "<group>"; };
+		07DAF5791B5A4DEB00B3A380 /* Apple Watch – Beijing.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Apple Watch – Beijing.mp4"; path = "../../../Downloads/Apple Watch – Beijing.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				07DAF5591B5A358200B3A380 /* AppDelegate.swift */,
 				07DAF55B1B5A358200B3A380 /* ViewController.swift */,
 				07DAF55D1B5A358200B3A380 /* Main.storyboard */,
+				07DAF5791B5A4DEB00B3A380 /* Apple Watch – Beijing.mp4 */,
 				07DAF5601B5A358200B3A380 /* Images.xcassets */,
 				07DAF5621B5A358200B3A380 /* LaunchScreen.xib */,
 				07DAF5571B5A358200B3A380 /* Supporting Files */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07DAF57A1B5A4DEB00B3A380 /* Apple Watch – Beijing.mp4 in Resources */,
 				07DAF55F1B5A358200B3A380 /* Main.storyboard in Resources */,
 				07DAF5641B5A358200B3A380 /* LaunchScreen.xib in Resources */,
 				07DAF5611B5A358200B3A380 /* Images.xcassets in Resources */,
